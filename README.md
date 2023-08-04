@@ -1,5 +1,5 @@
 # GoDLLInjector
-Just a simple DLL injector written in Golang.
+### Just a simple DLL injector written in Golang.
 ## Installation
 ```
 git clone https://github.com/R00tendo/GoDLLInjector
